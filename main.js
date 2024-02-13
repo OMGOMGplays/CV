@@ -22,7 +22,6 @@ function initialize() {
             ["image", "image", "image", "image"], // Page 4
         ]
 
-
     // Fill pages
     for (let i = 0; i <= MAXPAGES; i++) {
         pages.push(new Page(i));

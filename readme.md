@@ -1,3 +1,5 @@
 # 2024-02-12 - Starten
 Detta är datumet då projektet startades och jag började lära mig ännu mera av JS, genom att ha en enda sida med flera "pages" som man kan skrolla bland. Dessa pages kommer att ha bilder och text, som visar och beskriver de saker jag brukar göra och det jag har i intresse. Just nu så är det en halvt fungerande webbsida bara, som har sidor som man inte kan skrolla igenom, inte heller ser den bra ut, men det är en början. Det finns saker att fixa, t.ex. Pages och deras bilder.
 
+# 2024-02-13 - Fortsättningen
+Nu fick jag mera gjort för att fixa särskilda problem, men, som alltid, skapades mer problem med fixarna. Bilderna har det svårt att fungera, och ännu så länge så har jag ingen aning på hur jag ska kunna fixa dem. Jag hoppas på att jag antingen hittar på en fix, eller till slut fattar från det som jag beskrivs. Nästa gång, efter jag fixat det som strular, ska jag nog göra det mer modulärt att ändra sidornas innehåll, som bilder, text och titel, eller mängden sidor. Efter det får jag finjustera utseendet på sidan, så att det är mer enklare på ögonen.

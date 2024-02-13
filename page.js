@@ -13,11 +13,6 @@ class Page {
         this.title = TITLES[pageIndex];
         this.text = TEXTS[pageIndex];
         this.imgs = [];
-
-        // Fills the imgs array with essentially empty PageImg's
-        for (let i = 0; i < 4; i++) {
-            this.setImg("source", "image", i);
-        }
     }
 
     // Set an image in the array
@@ -25,6 +20,7 @@ class Page {
         this.imgs[imgIndex] = new PageImg(src, alt);
     }
 
+    // Get the site's 
     getTitle() {
         return this.title;
     }
