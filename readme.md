@@ -3,3 +3,6 @@ Detta är datumet då projektet startades och jag började lära mig ännu mera 
 
 # 2024-02-13 - Fortsättningen
 Nu fick jag mera gjort för att fixa särskilda problem, men, som alltid, skapades mer problem med fixarna. Bilderna har det svårt att fungera, och ännu så länge så har jag ingen aning på hur jag ska kunna fixa dem. Jag hoppas på att jag antingen hittar på en fix, eller till slut fattar från det som jag beskrivs. Nästa gång, efter jag fixat det som strular, ska jag nog göra det mer modulärt att ändra sidornas innehåll, som bilder, text och titel, eller mängden sidor. Efter det får jag finjustera utseendet på sidan, så att det är mer enklare på ögonen.
+
+# 2024-02-14 - Onsdagen
+Äntligen var problemet med sidornas bilder fixad, tack vare Erik's kod som jag referenserade. Den koden har nu blivit tillagd i repository:n och kan kollas på närsomhelst, ifall jag har något som vill tilläggas på sidan eller likande. Nu finns det bara småsaker kvar, som fadeIntoPage(), och lite extra puts på utseendet av webbsidan.

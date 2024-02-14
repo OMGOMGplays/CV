@@ -1,7 +1,9 @@
 class PageImg {
-    constructor(src, alt) {
+    constructor(src, alt, page, index) {
         this.src = src;
         this.alt = alt;
+        this.page = page;
+        this.index = index;
     }
 
     getSrc() {
@@ -10,5 +12,13 @@ class PageImg {
 
     getAlt() {
         return this.alt;
+    }
+
+    getIndex() {
+        return this.index;
+    }
+
+    getPage() {
+        return this.page;
     }
 }

@@ -6,27 +6,28 @@
 </head>
 
 <body style="margin: 0; background-color: gray;">
-    <script src="pageimg.js"></script>
-    <script src="page.js"></script>
-    <script src="main.js" onload="initialize()"></script>
-    
     <h1 class="title">LVs CV</h1>
 
-    <div class="info">
+    <div class="info">    
         <div id="info-overlay"></div>
 
-        <p class="info-title">Titel på denna sidan</p>
+        <h1 class="info-title">Titel på denna sidan</h1>
         <p class="info-subtext">
             Detta är extra info om vad denna sidan innebär och ska innehålla, för nu är detta bara temporär text.
-            Jag vet inte vad som kommer att ersättas här, men det kommer förmodligen vara lite information om vad jag gör och vem jag är.
+            Jag vet inte vad som kommer att ersättas här, men det kommer förmodligen vara lite information om vad jag
+            gör och vem jag är.
         </p>
 
-        <img class="info-img-1" src="temp.png">
-        <img class="info-img-2" src="temp.png">
-        <img class="info-img-3" src="temp.png">
-        <img class="info-img-4" src="temp.png">
-    
+        <img class="info-img" id="info-img-1" src="" index="0">
+        <img class="info-img" id="info-img-2" src="" index="1">
+        <img class="info-img" id="info-img-3" src="" index="2">
+        <img class="info-img" id="info-img-4" src="" index="3">
+
         <button class="changepage-1" onclick="changePage(true)">Föregående sida</button>
         <button class="changepage-2" onclick="changePage(false)">Nästa sida</button>
     </div>
+
+    <script src="pageimg.js"></script>
+    <script src="page.js"></script>
+    <script src="main.js" onload="initialize()"></script>
 </body>

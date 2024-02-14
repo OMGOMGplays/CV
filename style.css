@@ -54,36 +54,30 @@
     top: 65px;
 }
 
-.info-img-1 {
+.info-img {
     position: inherit;
-    width: 25%;
-
-    left: 15%;
-    top: 40%;
+    width: 35%;
+    border-radius: 10px;
 }
 
-.info-img-2 {
-    position: inherit;
-    width: 25%;
-
-    left: 15%;
-    top: 65%;
+#info-img-1 {
+    left: 10%;
+    top: 35%;
 }
 
-.info-img-3 {
-    position: inherit;
-    width: 25%;
-
-    right: 15%;
-    top: 40%;
+#info-img-2 {
+    left: 10%;
+    top: 60%;
 }
 
-.info-img-4 {
-    position: inherit;
-    width: 25%;
+#info-img-3 {
+    right: 10%;
+    top: 35%;
+}
 
-    right: 15%;
-    top: 65%;
+#info-img-4 {
+    right: 10%;
+    top: 60%;
 }
 
 /* Change page buttons
