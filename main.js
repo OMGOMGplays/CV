@@ -90,7 +90,7 @@ function fillImageArray() {
     imgArr.push(new PageImg("source", "image", 0, 2)); // Page 1, image 3
     imgArr.push(new PageImg("source", "image", 0, 3)); // Page 1, image 4
     imgArr.push(new PageImg("source", "image", 1, 0)); // Page 2, image 1
-    imgArr.push(new PageImg("./temp.png", "image", 1, 1)); // Page 2, image 2
+    imgArr.push(new PageImg("https://steamuserimages-a.akamaihd.net/ugc/2061000438193001998/81316DAF8A40E88E9632FC69FC958C6F0A5435E2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", "Bild på 3 spelkaraktärer positionerade i ett skämtsatt sätt, realistiska karaktärer med orealistiska proportioner", 1, 1)); // Page 2, image 2
     imgArr.push(new PageImg("source", "image", 1, 2)); // Page 2, image 3
     imgArr.push(new PageImg("https://steamuserimages-a.akamaihd.net/ugc/2301967354059733726/FE02A034AA553F157486A186D54265AE9A142038/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", "En bild på spelkaraktären \"Isaac Clarke\", som är beväpnad och skjuter en zombie.", 1, 3)); // Page 2, image 4
     imgArr.push(new PageImg("source", "image", 2, 0)); // Page 3, image 1
