@@ -101,7 +101,7 @@ function fillImageArray() {
     imgArr.push(new PageImg("source", "image", 3, 1)); // Page 4, image 2
     imgArr.push(new PageImg("source", "image", 3, 2)); // Page 4, image 3
     imgArr.push(new PageImg("source", "image", 3, 3)); // Page 4, image 4
-    imgArr.push(new PageImg("https://media.discordapp.net/attachments/711449749483552838/1048981875085033612/image.png?ex=65db5a80&is=65c8e580&hm=ed02ec318b03e9b5534eb87452ca92d176c31f22a79f94b5131bd35ed9c3a084&=&format=webp&quality=lossless&width=768&height=663", "dingus", 4, 0)); // Page 5, image 1
+    imgArr.push(new PageImg("https://cdn.discordapp.com/attachments/1200267049621016629/1206471261237153844/sisybombus.png?ex=65dc20eb&is=65c9abeb&hm=9791c35051cac8aed484f7de91a4c13d23ed0111b31609258e25c1bfb08c0293&", "En karaktär från Counter-Strike 2, placerad så att han liknar den grekiske guden Sysiphus, men istället för en sfär gjord av sten, så puttar han en C4.", 4, 0)); // Page 5, image 1
     imgArr.push(new PageImg("source", "image", 4, 1)); // Page 5, image 2
     imgArr.push(new PageImg("source", "image", 4, 2)); // Page 5, image 3
     imgArr.push(new PageImg("source", "image", 4, 3)); // Page 5, image 4

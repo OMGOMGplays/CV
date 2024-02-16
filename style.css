@@ -59,28 +59,28 @@
 
 .info-img {
     position: inherit;
-    width: 35%;
+    width: 25%;
     border-radius: 10px;
 }
 
 #info-img-1 {
     left: 10%;
-    top: 45%;
+    top: 55%;
 }
 
 #info-img-2 {
     left: 10%;
-    top: 55%;
+    top: 65%;
 }
 
 #info-img-3 {
     right: 10%;
-    top: 45%;
+    top: 55%;
 }
 
 #info-img-4 {
     right: 10%;
-    top: 55%;
+    top: 65%;
 }
 
 /* Change page buttons
@@ -105,7 +105,7 @@
         border-top: 4px gray solid;
         left: 0;
         width: 100vw;
-        height: 125vh;
+        height: 150vh;
     }
 
     .info-title {
@@ -113,32 +113,33 @@
     }
 
     .info-subtext {
-        font-size: 10px;
+        font-size: 14px;
         margin-left: 15px;
         margin-right: 15px;
     }
 
     .info-img {
         width: 48%;
+        height: auto;
     }
 
     #info-img-1 {
-        top: 45%;
+        top: 65%;
         left: 1%;
     }
 
     #info-img-2 {
-        top: 65%;
+        top: 81%;
         left: 1%;
     }
 
     #info-img-3 {
-        top: 45%;
+        top: 65%;
         right: 1%;
     }
 
     #info-img-4 {
-        top: 65%;
+        top: 81%;
         right:1%;
     }
 }
