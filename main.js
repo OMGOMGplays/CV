@@ -106,3 +106,5 @@ function fillImageArray() {
     imgArr.push(new PageImg("source", "image", 4, 2)); // Page 5, image 3
     imgArr.push(new PageImg("source", "image", 4, 3)); // Page 5, image 4
 }
+
+initialize();
