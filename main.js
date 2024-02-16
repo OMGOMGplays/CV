@@ -95,10 +95,14 @@ function fillImageArray() {
     imgArr.push(new PageImg("https://steamuserimages-a.akamaihd.net/ugc/2301967354059733726/FE02A034AA553F157486A186D54265AE9A142038/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", "En bild på spelkaraktären \"Isaac Clarke\", som är beväpnad och skjuter en zombie.", 1, 3)); // Page 2, image 4
     imgArr.push(new PageImg("source", "image", 2, 0)); // Page 3, image 1
     imgArr.push(new PageImg("source", "image", 2, 1)); // Page 3, image 2
-    imgArr.push(new PageImg("source", "image", 2, 2)); // Page 3, image 3
+    imgArr.push(new PageImg("https://steamuserimages-a.akamaihd.net/ugc/1755861228480761122/8AEAAAAA76C0AEF1AE72D654B96689FF8B41574B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", "Bild på en karaktär från ett Resident Evil spel", 2, 2)); // Page 3, image 3
     imgArr.push(new PageImg("source", "image", 2, 3)); // Page 3, image 4
     imgArr.push(new PageImg("source", "image", 3, 0)); // Page 4, image 1
     imgArr.push(new PageImg("source", "image", 3, 1)); // Page 4, image 2
     imgArr.push(new PageImg("source", "image", 3, 2)); // Page 4, image 3
     imgArr.push(new PageImg("source", "image", 3, 3)); // Page 4, image 4
+    imgArr.push(new PageImg("https://media.discordapp.net/attachments/711449749483552838/1048981875085033612/image.png?ex=65db5a80&is=65c8e580&hm=ed02ec318b03e9b5534eb87452ca92d176c31f22a79f94b5131bd35ed9c3a084&=&format=webp&quality=lossless&width=768&height=663", "dingus", 4, 0)); // Page 5, image 1
+    imgArr.push(new PageImg("source", "image", 4, 1)); // Page 5, image 2
+    imgArr.push(new PageImg("source", "image", 4, 2)); // Page 5, image 3
+    imgArr.push(new PageImg("source", "image", 4, 3)); // Page 5, image 4
 }
